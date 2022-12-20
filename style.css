@@ -1,0 +1,17 @@
+#input1{
+    border-radius: 1rem;
+    width: 50%;
+}
+.container{
+    text-align: center;
+}
+.ajax-section {
+    margin: 50px 0 20px;
+  }
+  
+.ajax-section .cities {
+    display: grid;
+    grid-gap: 32px 20px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
